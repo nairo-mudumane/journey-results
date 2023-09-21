@@ -4,6 +4,9 @@ export default {
   content: ["./index.html", "./src/**/*.tsx"],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ["Lora", "serif"],
+      },
       colors: {
         dark: "#242424",
         primary: "#4CAF50",
