@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ce1005d6-c17f-49ea-b6b2-6f8a44584e65",
+    "name": "Wilhelmsia physodes (Fisch. ex Ser.) McNeill",
+    "points": 4
+  },
+  {
+    "id": "af4fb4d7-5df6-4b7f-b524-9606b768f9f3",
+    "name": "Tauschia hooveri Mathias & Constance",
+    "points": 0
+  },
+  {
+    "id": "96c51b45-6478-4cb4-a9c9-c34f8efc0cab",
+    "name": "Rhynchospora marliniana Naczi, W.M.Knapp & W.W.Thomas",
+    "points": 7
+  },
+  {
+    "id": "1b7970e6-8a30-414f-b11a-69be2f19b1eb",
+    "name": "Eupatorium compositifolium Walter",
+    "points": 10
+  },
+  {
+    "id": "fcdb6a0c-5cd2-4b57-a9d7-1d6f403be5d3",
+    "name": "Reussia Endl.",
+    "points": 3
+  },
+  {
+    "id": "98d4c847-aa51-4cad-a601-7affcd25b193",
+    "name": "Cyperus fugax Liebm.",
+    "points": 0
+  },
+  {
+    "id": "af72778e-7edd-4088-bf6a-cde2ec63448b",
+    "name": "Diarrhena americana P. Beauv.",
+    "points": 3
+  },
+  {
+    "id": "fe78b56b-121a-4b94-b020-0c08587a1516",
+    "name": "Bryum meesioides Kindb.",
+    "points": 1
+  },
+  {
+    "id": "dd36d191-a87a-4abc-841d-8436828d9103",
+    "name": "Cyperus cyperinus (Retz.) Sur.",
+    "points": 1
+  },
+  {
+    "id": "b6ec4f9c-98bd-46d3-b42c-8fc153508279",
+    "name": "Saxifraga aprica Greene",
+    "points": 10
+  },
+  {
+    "id": "3c0db1d2-0691-4979-9ec1-b2fad84dde38",
+    "name": "Atriplex cuneata A. Nelson ssp. introgressa C.A. Hanson",
+    "points": 5
+  },
+  {
+    "id": "6b4e5596-fc1f-42a4-b6cb-1e00cc93e315",
+    "name": "Catapyrenium acarosporoides (Zahlbr.) J.W. Thomson",
+    "points": 6
+  },
+  {
+    "id": "d64c3d8d-26e0-4d2b-94bc-84c6f6b7def6",
+    "name": "Hypoxis curtissii Rose",
+    "points": 10
+  },
+  {
+    "id": "5893def7-6199-4d8c-8075-c27da6b37247",
+    "name": "Euphorbia cooperi N.E. Br. ex A. Berger",
+    "points": 10
+  },
+  {
+    "id": "95437683-c895-46e9-b9d5-851a76a4bd55",
+    "name": "Eriogonum heracleoides Nutt. var. angustifolium (Nutt.) Torr. & A. Gray",
+    "points": 7
+  },
+  {
+    "id": "d2ddc525-fda1-4fac-9106-371ee7277078",
+    "name": "Veronica officinalis L.",
+    "points": 8
+  },
+  {
+    "id": "1e399226-1cdf-4bbf-8cbe-4a086a7ef3ed",
+    "name": "Hulsea vestita A. Gray ssp. gabrielensis Wilken",
+    "points": 9
+  },
+  {
+    "id": "d930c360-0d04-4cf7-bb6d-3b831056092b",
+    "name": "Dactyloctenium Willd.",
+    "points": 9
+  },
+  {
+    "id": "4252ab92-090a-4e3b-9ecf-98d5f2ee884c",
+    "name": "Philadelphus palmeri Rydb.",
+    "points": 4
+  },
+  {
+    "id": "ebc2de37-e8f2-41df-9189-3263ad29bea8",
+    "name": "Buellia ocellata (Flotow) Körb.",
+    "points": 6
+  },
+  {
+    "id": "df1938e8-4fde-401b-8295-abcd963ca5d2",
+    "name": "Selinum carvifolia (L.) L.",
+    "points": 8
+  },
+  {
+    "id": "7978454b-cb94-4df9-828c-202e0fd41260",
+    "name": "Echinochloa elliptica Michael & Vick.",
+    "points": 8
+  },
+  {
+    "id": "0491f4aa-dd6d-489c-82ee-50853a23e7d3",
+    "name": "Eurybia hemispherica (Alexander) G.L. Nesom",
+    "points": 2
+  },
+  {
+    "id": "73e5e885-12b5-4b96-874b-9ac12a8715a0",
+    "name": "Telfairia pedata (Sm. ex Sims) Hook.",
+    "points": 4
+  },
+  {
+    "id": "530df4bf-5f5d-43bb-a454-dabec6967469",
+    "name": "Dichaea Lindl.",
+    "points": 4
+  },
+  {
+    "id": "4df06f9b-2dca-48c2-8e23-5a8047d166e8",
+    "name": "Deeringothamnus rugelii (B.L. Rob.) Small",
+    "points": 10
+  },
+  {
+    "id": "26881c8f-9a5e-40fa-a0cd-24baee0719a0",
+    "name": "Phlox caryophylla Wherry",
+    "points": 2
+  },
+  {
+    "id": "5c70f55f-5cba-4045-8b6f-5074990ce916",
+    "name": "Gratiola virginiana L.",
+    "points": 4
+  },
+  {
+    "id": "5c90349c-032d-4fd1-8f27-0653aa754b94",
+    "name": "Forestiera ligustrina (Michx.) Poir.",
+    "points": 5
+  },
+  {
+    "id": "c2dac0be-7afb-487f-8522-559d2a84e96f",
+    "name": "Trifolium globosum L.",
+    "points": 9
+  },
+  {
+    "id": "152eeed2-abe8-4f3b-9aad-34da5a799abd",
+    "name": "Dalea lanata Spreng. var. terminalis (M.E. Jones) Barneby",
+    "points": 9
+  },
+  {
+    "id": "41d22427-4768-4e96-8b2a-e03e9ea8715e",
+    "name": "Eriogonum pharnaceoides Torr. var. pharnaceoides",
+    "points": 4
+  },
+  {
+    "id": "577f0547-9803-49bb-b080-2c69e1279256",
+    "name": "Xanthoparmelia somloensis (Gyel.) Hale",
+    "points": 7
+  },
+  {
+    "id": "792c463e-1aed-43e8-9a8c-f8d204d03f21",
+    "name": "Tripsacum latifolium Hitchc.",
+    "points": 7
+  },
+  {
+    "id": "d2a56674-debd-4dad-9de5-ba4028aea33c",
+    "name": "Geranium potentilloides L'Hér. ex DC.",
+    "points": 0
+  },
+  {
+    "id": "c54f8d0c-b63d-4c83-a85d-4aafe8ac651b",
+    "name": "Lagarosiphon major (Ridley) Moss",
+    "points": 4
+  },
+  {
+    "id": "4d999254-a230-46c3-8bd3-8a063cc5f8ca",
+    "name": "Arabis codyi G. Mulligan",
+    "points": 8
+  },
+  {
+    "id": "54e0bf13-e64c-4932-8ec4-a332500ee8ad",
+    "name": "Oxalis rubra A. St.-Hil.",
+    "points": 5
+  },
+  {
+    "id": "35a34fa2-8af7-4852-a2dc-f6871b8b4b9d",
+    "name": "Bothriochloa ischaemum (L.) Keng var. songarica (Rupr. ex Fisch. & C.A. Mey.) Celarier & Harlan",
+    "points": 7
+  },
+  {
+    "id": "ee7923e9-25d9-41e5-b85f-e6cca8447762",
+    "name": "Tamarix tetragyna C. Ehrenb.",
+    "points": 4
+  },
+  {
+    "id": "d66bacf8-27f9-428d-ab8e-e36e3dc5b5b3",
+    "name": "Aquilegia coerulea James var. daileyae Eastw.",
+    "points": 7
+  },
+  {
+    "id": "43060680-4c66-422d-8593-cdbbe25772ad",
+    "name": "Chorizanthe parryi S. Watson",
+    "points": 0
+  },
+  {
+    "id": "469ba620-5abc-41f2-83a0-aa1c10a80944",
+    "name": "Parkia R. Br.",
+    "points": 2
+  },
+  {
+    "id": "342abbe1-304e-4bbf-bfe3-7dfb52fb38fe",
+    "name": "Austrocedrus chilensis (D. Don) Pic. Serm. & Bizzarri",
+    "points": 1
+  },
+  {
+    "id": "4543005f-1178-461c-acae-02c80f615eac",
+    "name": "Thalictrum fendleri Engelm. ex A. Gray",
+    "points": 9
+  },
+  {
+    "id": "2883a8b3-6e2f-4e99-b27f-3f34625616d5",
+    "name": "Ruta chalepensis L.",
+    "points": 5
+  },
+  {
+    "id": "4461a65e-3285-46bc-b4db-f6837f34fdbb",
+    "name": "Carex raynoldsii Dewey",
+    "points": 8
+  },
+  {
+    "id": "d637b51f-bc26-4c79-bd93-fc5e1772d3ff",
+    "name": "Chrysopsis mariana (L.) Elliott",
+    "points": 4
+  },
+  {
+    "id": "66bedcaa-6710-4024-b07a-95b914048158",
+    "name": "Lasiospermum bipinnatum (Thunb.) Druce",
+    "points": 8
+  },
+  {
+    "id": "5a727b37-c5cd-4518-9f9c-797f2156d52d",
+    "name": "Cirsium ownbeyi S.L. Welsh",
+    "points": 3
+  },
+  {
+    "id": "26ec7bed-98a5-4a24-af71-949ac0de4fb0",
+    "name": "Veratrum hybridum (Walter) J.H. Zimmerman ex Zomlefer",
+    "points": 4
+  },
+  {
+    "id": "be82ce7c-b175-4d66-a741-80cc47500c0c",
+    "name": "Dudleya blochmaniae (Eastw.) Moran",
+    "points": 7
+  },
+  {
+    "id": "e3941be8-9951-4b05-acf9-ae0d1beeb4c5",
+    "name": "Ligustrum japonicum Thunb.",
+    "points": 0
+  },
+  {
+    "id": "9baedcb3-7b4d-4aeb-a39e-0d48d13e6994",
+    "name": "Plagiobothrys canescens Benth.",
+    "points": 4
+  },
+  {
+    "id": "28643380-1dc6-4850-80c2-786943d48403",
+    "name": "Dichondra J.R. Forst. & G. Forst.",
+    "points": 1
+  },
+  {
+    "id": "a8858303-3149-4b03-8d2d-d5b5620ab7ad",
+    "name": "Mirabilis expansa (Ruiz & Pav.) Standl.",
+    "points": 10
+  },
+  {
+    "id": "752e167e-5e7e-4a71-8e98-e32ca23e5331",
+    "name": "Zamia amblyphyllidia D.W. Stev.",
+    "points": 4
+  },
+  {
+    "id": "f4bf24b3-63a8-4a02-9352-4eda835c0a31",
+    "name": "Berberis sargentiana C.K. Snied.",
+    "points": 9
+  },
+  {
+    "id": "56b60912-dc1e-45dc-889a-8a5917fbbca1",
+    "name": "Lempholemma isidioides (Nyl. ex Arnold) H. Magn.",
+    "points": 3
+  },
+  {
+    "id": "3996da41-4fbe-4c18-85f6-7be4046674d1",
+    "name": "Chaenotheca trichialis (Ach.) Th. Fr.",
+    "points": 9
+  },
+  {
+    "id": "f469c356-e144-4240-a20c-49328a7cb393",
+    "name": "Tetraphis pellucida Hedw.",
+    "points": 6
+  },
+  {
+    "id": "493c9586-5b74-446d-b9d8-dd61d6599cef",
+    "name": "Heterotheca rutteri (Rothr.) Shinners",
+    "points": 4
+  },
+  {
+    "id": "ee64549d-cf42-4bab-b2ad-996f98032c98",
+    "name": "Tournefortia bicolor Sw.",
+    "points": 5
+  },
+  {
+    "id": "9b49facf-9fcc-4570-83f8-8c1bdeb0d33e",
+    "name": "Eriogonum corymbosum Benth. var. velutinum Reveal",
+    "points": 2
+  },
+  {
+    "id": "a50361ef-f9e5-4a9b-abba-1faa9bafd5ef",
+    "name": "Sphinctrina tubiformis A. Massal.",
+    "points": 7
+  },
+  {
+    "id": "c90fdb0c-d757-4210-b913-a00eab3c41e1",
+    "name": "Centrosema arenicola (Small) F.J. Herm.",
+    "points": 4
+  },
+  {
+    "id": "d532f1ff-74ed-4816-8864-5422fc27e238",
+    "name": "Stereocaulon condensatum Hoffm.",
+    "points": 4
+  },
+  {
+    "id": "864b8e8c-a308-4a2c-994e-7140c66aede9",
+    "name": "Echinochloa turneriana (Domin) J.M. Black",
+    "points": 1
+  },
+  {
+    "id": "ed4e3f87-20bc-4f87-bc27-dcd501751138",
+    "name": "Dryopteris podosora W.H. Wagner & T. Flynn",
+    "points": 5
+  },
+  {
+    "id": "7833e729-195f-4091-9aa4-1982f3187ef0",
+    "name": "Verbena incompta P.W. Michael",
+    "points": 10
+  },
+  {
+    "id": "b0e5091b-dc66-41a0-a476-96ae28ed1bdc",
+    "name": "Condalia hookeri M.C. Johnst. var. hookeri",
+    "points": 9
+  },
+  {
+    "id": "d7e14172-1ff0-4a74-b14a-f92a25ef26f3",
+    "name": "Coryphantha robustispina (Schott ex Engelm.) Britton & Rose",
+    "points": 4
+  },
+  {
+    "id": "48d5f292-4747-482f-8a8b-ce5f9147fe2c",
+    "name": "Dicentra formosa (Haw.) Walp. ssp. formosa",
+    "points": 10
+  },
+  {
+    "id": "8a890a71-cd8c-4be7-859d-95e37552610e",
+    "name": "Cuscuta runyonii Yunck.",
+    "points": 8
+  },
+  {
+    "id": "6d3d1491-3406-4f88-8be2-eda516a9fbdb",
+    "name": "Nama undulatum Kunth",
+    "points": 8
+  },
+  {
+    "id": "e38d0c01-1f16-4cba-9993-b82068a5707e",
+    "name": "Scutellaria saxatilis Riddell",
+    "points": 1
+  },
+  {
+    "id": "d7be5e2d-0028-4c8c-8c34-5c6344365bdc",
+    "name": "Eucalyptus longifolia Link",
+    "points": 10
+  },
+  {
+    "id": "60b03835-9665-416d-a45b-cad115628b1d",
+    "name": "Peperomia macraeana C. DC.",
+    "points": 0
+  },
+  {
+    "id": "35efdab5-b72c-470e-9a62-b1ae3fb8db09",
+    "name": "Calceolaria multiflora Cav.",
+    "points": 4
+  },
+  {
+    "id": "148e3160-18d7-4f7b-a352-b129789adcd5",
+    "name": "Musa troglodytarum L.",
+    "points": 10
+  },
+  {
+    "id": "16c1ef02-4704-4e13-9fb3-2285fed9bdf1",
+    "name": "Canoparmelia texana (Tuck.) Elix & Hale",
+    "points": 5
+  },
+  {
+    "id": "817be79e-2761-4359-9322-b1bbb14a5713",
+    "name": "Abies lowiana (Gordon & Glend.) A. Murray bis",
+    "points": 9
+  },
+  {
+    "id": "3fe9e813-e5c7-4db5-83d9-1008f330f153",
+    "name": "Arthopyrenia texensis (Cooke) D. Hawksw.",
+    "points": 8
+  },
+  {
+    "id": "b8c6fdc1-d11a-4c4e-990a-5f66f9be35ac",
+    "name": "Fraxinus berlandieriana DC.",
+    "points": 6
+  },
+  {
+    "id": "8b7007ba-c54f-485d-82fb-8f2f8e4b11be",
+    "name": "Cotoneaster lacteus W.W. Sm.",
+    "points": 1
+  },
+  {
+    "id": "1b1ccc57-e06e-4da1-b4d7-91a1f6418cc0",
+    "name": "Hedeoma hyssopifolia A. Gray",
+    "points": 9
+  },
+  {
+    "id": "2a27217d-e73a-4a3f-afe1-e5454afb1823",
+    "name": "Quercus coccinea Münchh.",
+    "points": 4
+  },
+  {
+    "id": "a29d1c70-5262-43b5-8adc-ab907fb17c93",
+    "name": "Harrisia fragrans Small ex Britton & Rose",
+    "points": 3
+  },
+  {
+    "id": "e288fcb4-9c65-4dd4-a4d1-80ddbd3729a6",
+    "name": "Blepharipappus scaber Hook. ssp. scaber",
+    "points": 4
+  },
+  {
+    "id": "c74ec601-5113-4b5a-9411-41aeb7bd8383",
+    "name": "Collomia diversifolia Greene",
+    "points": 6
+  },
+  {
+    "id": "db6c4ac9-eb11-4ab9-94ad-411925cc4c99",
+    "name": "Eupatorium rotundifolium L.",
+    "points": 10
+  },
+  {
+    "id": "21ab8446-4a0a-41a0-9ecc-bc7bc390f7ee",
+    "name": "Tetraclea A. Gray",
+    "points": 10
+  },
+  {
+    "id": "16b30baf-fdb8-4484-affd-7f5a9b7b4846",
+    "name": "Peccania subnigra (de Lesd.) Wetmore",
+    "points": 0
+  },
+  {
+    "id": "0118774e-42e9-4f94-ad8b-c3ee3f97b3a2",
+    "name": "Sanicula graveolens Poepp. ex DC.",
+    "points": 2
+  },
+  {
+    "id": "0285991a-c1da-4fed-9105-f9a43057b76b",
+    "name": "Genista aetnensis (Raf. ex Biv.) DC.",
+    "points": 7
+  },
+  {
+    "id": "8c76623d-5a35-4e9c-bb70-5e3504798d3b",
+    "name": "Ranunculus lappaceus Sm.",
+    "points": 2
+  },
+  {
+    "id": "db9aeb1f-ceba-4d4a-b98a-6ab6a891d59d",
+    "name": "Gratiola floridana Nutt.",
+    "points": 6
+  },
+  {
+    "id": "3ddfef4e-8433-43c7-890f-75cfd9ae46cf",
+    "name": "Lesquerella pulchella Rollins",
+    "points": 1
+  },
+  {
+    "id": "af4f1ba0-78fd-4a03-abd2-2ddef23c4294",
+    "name": "Platanthera chapmanii (Small) Luer",
+    "points": 4
+  },
+  {
+    "id": "e59f440d-c112-4e19-b622-244c6efa1976",
+    "name": "Ribes binominatum A. Heller",
+    "points": 2
+  }
+]
