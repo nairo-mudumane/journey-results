@@ -38,6 +38,13 @@ export function RoundsCarousel() {
     setRounds(filteredRounds);
   }, []);
 
+  React.useEffect(() => {
+    if (rounds.length > 0) {
+      const noEmptyGames = rounds.filter((round) => round.games.length > 0);
+      setRounds(noEmptyGames);
+    }
+  }, [rounds]);
+
   return (
     <ul className="flex flex-col gap-4">
       {rounds.map((round, index) => (
