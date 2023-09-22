@@ -11,7 +11,7 @@ import Game from "./game";
 
 export function CardRound({ round }: CardRoundProps) {
   return (
-    <article className="max-w-full md:max-w-[26rem]">
+    <article className="max-w-full md:max-w-[20rem]">
       <Paper variant="elevation">
         <Accordion sx={{ background: "transparent" }}>
           <AccordionSummary
