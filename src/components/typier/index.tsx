@@ -1,7 +1,7 @@
 import React from "react";
 import { TypierProps } from "./@types";
 
-export function Typier({ text, speed = 70 }: TypierProps) {
+export function Typier({ text, speed = 50 }: TypierProps) {
   const [displayText, setDisplayText] = React.useState("");
   const [currentIndex, setCurrentIndex] = React.useState(0);
 

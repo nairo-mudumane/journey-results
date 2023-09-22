@@ -11,27 +11,30 @@ export function RoundsCarousel() {
   React.useEffect(() => {
     const filteredRounds: Array<Round> = [];
 
-    for (const roundIndex in allRounds) {
+    for (const round of allRounds) {
       const games: Array<Game> = [];
 
-      const team1Index = Math.floor(Math.random() * allTeams.length);
-      const team2Index = Math.floor(Math.random() * allTeams.length);
+      while (games.length < round.limit) {
+        const team1Index = Math.floor(Math.random() * allTeams.length);
+        let team2Index;
 
-      const teams: Array<Team> = [allTeams[team1Index], allTeams[team2Index]];
+        do {
+          team2Index = Math.floor(Math.random() * allTeams.length);
+        } while (team2Index === team1Index);
 
-      const limitIndex = Math.floor(Math.random() * allTeams.length);
-      // eslint-disable-next-line no-empty-pattern
-      for (const {} of allTeams.slice(0, limitIndex))
+        const teams: Array<Team> = [allTeams[team1Index], allTeams[team2Index]];
+
         games.push({
           teams,
-          date: allRounds[roundIndex].date,
-          time: allRounds[roundIndex].time,
-          name: `Round ${roundIndex + 1} of ${allRounds.length}`,
+          date: round.date,
+          time: round.time,
+          name: `Round ${filteredRounds.length + 1}`,
         });
+      }
 
       filteredRounds.push({
         games,
-        name: `Round ${roundIndex + 1}`,
+        name: `Round ${filteredRounds.length + 1}`,
       });
     }
 

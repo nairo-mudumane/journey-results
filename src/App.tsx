@@ -15,7 +15,7 @@ export function App() {
 
           <h1 className="font-semibold">
             <Typier
-              speed={25}
+              speed={20}
               text="Dolor non enim pariatur ipsum velit excepteur aliqua culpa ea eu."
             />
           </h1>

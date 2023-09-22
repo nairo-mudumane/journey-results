@@ -1,10 +1,11 @@
-import { KeyboardArrowDown } from "@mui/icons-material";
 import {
   Accordion,
   AccordionDetails,
   AccordionSummary,
   Paper,
 } from "@mui/material";
+import { v4 } from "uuid";
+import { KeyboardArrowDown } from "@mui/icons-material";
 import { CardRoundProps } from "./@types";
 import Game from "./game";
 
@@ -25,8 +26,8 @@ export function CardRound({ round }: CardRoundProps) {
 
           <AccordionDetails>
             <ul className="w-full max-h-[16rem] overflow-y-auto">
-              {round.games.map((game, index) => (
-                <li key={index}>
+              {round.games.map((game) => (
+                <li key={`${game.name}-${v4()}`}>
                   <Game game={game} />
                 </li>
               ))}
