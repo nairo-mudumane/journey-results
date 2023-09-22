@@ -16,7 +16,7 @@ export function App() {
         <SocialMedia />
       </section>
 
-      <section className="px-10 py-8 flex items-center md:flex-1 md:h-screen overflow-hidden overflow-y-auto">
+      <section className="px-10 py-8 md:flex-1 md:h-screen">
         <RoundsCarousel />
       </section>
     </main>
