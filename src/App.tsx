@@ -8,7 +8,7 @@ import {
 
 export function App() {
   return (
-    <main className="w-screen min-h-screen flex flex-wrap gap-6 items-center justify-evenly">
+    <main className="w-screen min-h-screen block md:flex gap-6 items-center justify-evenly">
       <section className="md:min-w-[54%]">
         <PageContainer className="md:w-max md:max-w-full">
           <Logo />
@@ -24,8 +24,8 @@ export function App() {
         </PageContainer>
       </section>
 
-      <section className="w-full flex-1 h-screen overflow-y-auto mx-auto md:py-10 md:min-w-full xl:min-w-[44%]">
-        <PageContainer className="w-max max-w-full">
+      <section className="flex-1 md:h-screen overflow-y-auto md:py-10 md:min-w-full xl:min-w-[44%]">
+        <PageContainer className="md:w-max md:max-w-full">
           <RoundsCarousel />
         </PageContainer>
       </section>
