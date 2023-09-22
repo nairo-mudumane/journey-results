@@ -1,27 +1,43 @@
-# React + TypeScript + Vite
+# journey Results
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Is a simple and effective web project created for all European football enthusiasts. This repository contains the source code and resources needed to create a UEFA matchday results tracking platform.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+_NOTE: If you want to skip the installation step by step, click on the link below_
 
-## Expanding the ESLint configuration
+[https://journey-results.onrender.com](https://journey-results.onrender.com)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+To install the project, first clone the repository:
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+```bash
+  https://github.com/nairo-mudumane/journey-results.git
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Then install the dependencies using pnpm (yarn and npm also work)
+
+#### pnpm
+
+```bash
+pnpm install
+```
+
+#### yarn
+
+```bash
+yarn install
+```
+
+#### npm
+
+```bash
+npm install
+```
+
+## Preview
+
+After installing the dependencies, run the command:
+
+```bash
+pnpm (or yarn or npm) dev
+```
