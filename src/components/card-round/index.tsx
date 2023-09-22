@@ -19,9 +19,7 @@ export function CardRound({ round }: CardRoundProps) {
             aria-controls="panel1bh-content"
             id="panel1bh-header"
           >
-            <div className="">
-              <h3>{round.name}</h3>
-            </div>
+            <h3 className="text-primary font-semibold">{round.name}</h3>
           </AccordionSummary>
 
           <AccordionDetails>

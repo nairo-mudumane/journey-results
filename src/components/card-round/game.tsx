@@ -7,7 +7,7 @@ export default function Game({ game }: GameProps) {
       {game.teams.map((team) => (
         <h4
           key={`${team.name}-${v4()}`}
-          className="font-semibold mb-2 flex gap-1 justify-between"
+          className="text-primary font-semibold mb-2 flex gap-1 justify-between"
         >
           <span>{team.name}</span>
           <span className="bg-primary text-white rounded-sm py-1 px-2">
@@ -18,10 +18,10 @@ export default function Game({ game }: GameProps) {
 
       <footer>
         <div className="text-shadowLight text-sm flex gap-1 justify-between">
-          <p>
+          <div>
             <span>{game.date}</span> - <span>{game.time}</span>
-          </p>
-          <p>{game.name}</p>
+          </div>
+          <div>{game.name}</div>
         </div>
       </footer>
     </div>
