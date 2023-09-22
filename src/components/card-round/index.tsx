@@ -1,9 +1,39 @@
-export function CardRound() {
-  // CardRoundProps
+import { KeyboardArrowDown } from "@mui/icons-material";
+import {
+  Accordion,
+  AccordionDetails,
+  AccordionSummary,
+  Paper,
+} from "@mui/material";
+import { CardRoundProps } from "./@types";
+import Game from "./game";
 
+export function CardRound({ round }: CardRoundProps) {
   return (
-    <article className="rounded-xl border border-shadowDark bg-shadowDark text-card-foreground shadow-shadowDark hover:shadow-shadowLight shadow-sm min-w-[350px] py-4 px-6">
-      card round
+    <article className="max-w-full md:max-w-[26rem]">
+      <Paper variant="elevation">
+        <Accordion sx={{ background: "transparent" }}>
+          <AccordionSummary
+            expandIcon={<KeyboardArrowDown />}
+            aria-controls="panel1bh-content"
+            id="panel1bh-header"
+          >
+            <div className="">
+              <h3>{round.name}</h3>
+            </div>
+          </AccordionSummary>
+
+          <AccordionDetails>
+            <ul className="w-full max-h-[16rem] overflow-y-auto">
+              {round.games.map((game, index) => (
+                <li key={index}>
+                  <Game game={game} />
+                </li>
+              ))}
+            </ul>
+          </AccordionDetails>
+        </Accordion>
+      </Paper>
     </article>
   );
 }

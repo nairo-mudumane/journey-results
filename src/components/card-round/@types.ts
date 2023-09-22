@@ -1,6 +1,9 @@
-import { Round } from "../../@types";
+import { Game, Round } from "../../@types";
 
 export interface CardRoundProps {
-  size: "small" | "large";
   round: Round;
+}
+
+export interface GameProps {
+  game: Game;
 }

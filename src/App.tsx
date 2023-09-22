@@ -8,9 +8,9 @@ import {
 
 export function App() {
   return (
-    <main className="w-screen min-h-screen flex flex-wap gap-6 items-center justify-evenly">
-      <section className="md:w-[54%]">
-        <PageContainer className="w-full max-w-full">
+    <main className="w-screen min-h-screen flex flex-wrap gap-6 items-center justify-evenly">
+      <section className="md:min-w-[54%]">
+        <PageContainer className="md:w-max md:max-w-full">
           <Logo />
 
           <h1 className="font-semibold">
@@ -24,11 +24,9 @@ export function App() {
         </PageContainer>
       </section>
 
-      <section className="min-w-[46%] flex-1 h-screen overflow-y-auto">
-        <PageContainer className="w-full max-w-full">
-          <div className="w-full py-6 flex items-center ">
-            <RoundsCarousel />
-          </div>
+      <section className="w-full flex-1 h-screen overflow-y-auto mx-auto md:py-10 md:min-w-full xl:min-w-[44%]">
+        <PageContainer className="w-max max-w-full">
+          <RoundsCarousel />
         </PageContainer>
       </section>
     </main>

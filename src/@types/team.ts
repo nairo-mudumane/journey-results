@@ -1,6 +1,4 @@
-import { DefaultData } from "./default";
-
-export interface Team extends DefaultData {
+export interface Team {
   name: string;
   points: number;
 }
